@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iray\\source\\repos\\algooo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8756952A-A016-436D-9819-7FBA5F7E7A2F}|algooo\\algooo.csproj|c:\\users\\iray\\source\\repos\\algooo\\algooo\\features\\algo process.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8756952A-A016-436D-9819-7FBA5F7E7A2F}|algooo\\algooo.csproj|solutionrelative:algooo\\features\\algo process.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8756952A-A016-436D-9819-7FBA5F7E7A2F}|algooo\\algooo.csproj|c:\\users\\iray\\source\\repos\\algooo\\algooo\\stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8756952A-A016-436D-9819-7FBA5F7E7A2F}|algooo\\algooo.csproj|solutionrelative:algooo\\stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8756952A-A016-436D-9819-7FBA5F7E7A2F}|algooo\\algooo.csproj|c:\\users\\iray\\source\\repos\\algooo\\algooo\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8756952A-A016-436D-9819-7FBA5F7E7A2F}|algooo\\algooo.csproj|solutionrelative:algooo\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hooks1.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\algooo\\algooo\\Hooks\\Hooks1.cs",
+              "RelativeDocumentMoniker": "algooo\\Hooks\\Hooks1.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\algooo\\algooo\\Hooks\\Hooks1.cs",
+              "RelativeToolTip": "algooo\\Hooks\\Hooks1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:25:24.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Steps.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\algooo\\algooo\\StepDefinitions\\Steps.cs",
+              "RelativeDocumentMoniker": "algooo\\StepDefinitions\\Steps.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\algooo\\algooo\\StepDefinitions\\Steps.cs",
+              "RelativeToolTip": "algooo\\StepDefinitions\\Steps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:17:22.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Algo process.feature",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\algooo\\algooo\\Features\\Algo process.feature",
+              "RelativeDocumentMoniker": "algooo\\Features\\Algo process.feature",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\algooo\\algooo\\Features\\Algo process.feature",
+              "RelativeToolTip": "algooo\\Features\\Algo process.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-01-06T13:15:13.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

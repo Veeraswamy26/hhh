@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iray3\\source\\repos\\Apicalls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{352DD874-8DB8-4B72-960A-E2A8C70D592E}|Apicalls\\Apicalls.csproj|c:\\users\\iray3\\source\\repos\\apicalls\\apicalls\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352DD874-8DB8-4B72-960A-E2A8C70D592E}|Apicalls\\Apicalls.csproj|solutionrelative:apicalls\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352DD874-8DB8-4B72-960A-E2A8C70D592E}|Apicalls\\Apicalls.csproj|c:\\users\\iray3\\source\\repos\\apicalls\\apicalls\\data\\datas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352DD874-8DB8-4B72-960A-E2A8C70D592E}|Apicalls\\Apicalls.csproj|solutionrelative:apicalls\\data\\datas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352DD874-8DB8-4B72-960A-E2A8C70D592E}|Apicalls\\Apicalls.csproj|c:\\users\\iray3\\source\\repos\\apicalls\\apicalls\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{352DD874-8DB8-4B72-960A-E2A8C70D592E}|Apicalls\\Apicalls.csproj|solutionrelative:apicalls\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "datas.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\Apicalls\\Apicalls\\data\\datas.cs",
+              "RelativeDocumentMoniker": "Apicalls\\data\\datas.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\Apicalls\\Apicalls\\data\\datas.cs",
+              "RelativeToolTip": "Apicalls\\data\\datas.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:15:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\Apicalls\\Apicalls\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "Apicalls\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\Apicalls\\Apicalls\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "Apicalls\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:03:45.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.feature",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\Apicalls\\Apicalls\\Features\\Calculator.feature",
+              "RelativeDocumentMoniker": "Apicalls\\Features\\Calculator.feature",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\Apicalls\\Apicalls\\Features\\Calculator.feature",
+              "RelativeToolTip": "Apicalls\\Features\\Calculator.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-13T11:55:30.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

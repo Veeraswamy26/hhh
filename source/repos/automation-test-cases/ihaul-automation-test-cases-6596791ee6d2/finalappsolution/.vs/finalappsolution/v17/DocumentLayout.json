@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|c:\\users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|solutionrelative:finalapp\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|c:\\users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\pom\\packingandmoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|solutionrelative:finalapp\\pom\\packingandmoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|c:\\users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\pom\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|solutionrelative:finalapp\\pom\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|c:\\users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\pom\\adddetailspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|solutionrelative:finalapp\\pom\\adddetailspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|c:\\users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\utility\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|solutionrelative:finalapp\\utility\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|c:\\users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\pom\\addpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|solutionrelative:finalapp\\pom\\addpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|c:\\users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|solutionrelative:finalapp\\stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|c:\\users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|solutionrelative:finalapp\\features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|c:\\users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\utility\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AF5BF-08CA-4BD3-ABF2-34FF5625847C}|finalapp\\finalapp.csproj|solutionrelative:finalapp\\utility\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hooks1.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\Hooks\\Hooks1.cs",
+              "RelativeDocumentMoniker": "finalapp\\Hooks\\Hooks1.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\Hooks\\Hooks1.cs",
+              "RelativeToolTip": "finalapp\\Hooks\\Hooks1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:29:06.713Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "steps.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\StepDefinitions\\steps.cs",
+              "RelativeDocumentMoniker": "finalapp\\StepDefinitions\\steps.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\StepDefinitions\\steps.cs",
+              "RelativeToolTip": "finalapp\\StepDefinitions\\steps.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:24:59.032Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\utility\\Class1.cs",
+              "RelativeDocumentMoniker": "finalapp\\utility\\Class1.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\utility\\Class1.cs",
+              "RelativeToolTip": "finalapp\\utility\\Class1.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAADQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:34:26.618Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "addpaymentmethod.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\POM\\addpaymentmethod.cs",
+              "RelativeDocumentMoniker": "finalapp\\POM\\addpaymentmethod.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\POM\\addpaymentmethod.cs",
+              "RelativeToolTip": "finalapp\\POM\\addpaymentmethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:31:54.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "homescreen.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\POM\\homescreen.cs",
+              "RelativeDocumentMoniker": "finalapp\\POM\\homescreen.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\POM\\homescreen.cs",
+              "RelativeToolTip": "finalapp\\POM\\homescreen.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:19:21.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packingandmoving.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\POM\\packingandmoving.cs",
+              "RelativeDocumentMoniker": "finalapp\\POM\\packingandmoving.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\POM\\packingandmoving.cs",
+              "RelativeToolTip": "finalapp\\POM\\packingandmoving.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:04:42.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adddetailspage.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\POM\\adddetailspage.cs",
+              "RelativeDocumentMoniker": "finalapp\\POM\\adddetailspage.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\POM\\adddetailspage.cs",
+              "RelativeToolTip": "finalapp\\POM\\adddetailspage.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAFYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:02:51.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Feature1.feature",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\Features\\Feature1.feature",
+              "RelativeDocumentMoniker": "finalapp\\Features\\Feature1.feature",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\Features\\Feature1.feature",
+              "RelativeToolTip": "finalapp\\Features\\Feature1.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-20T06:35:12.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "data.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\utility\\data.cs",
+              "RelativeDocumentMoniker": "finalapp\\utility\\data.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\automation-test-cases\\ihaul-automation-test-cases-6596791ee6d2\\finalappsolution\\finalapp\\utility\\data.cs",
+              "RelativeToolTip": "finalapp\\utility\\data.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:48:44.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

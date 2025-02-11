@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iray3\\source\\repos\\signin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6DD85-445A-4B25-98B2-6C8BDE95F64E}|signin\\signin.csproj|c:\\users\\iray3\\source\\repos\\signin\\signin\\utility\\mobilenimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6DD85-445A-4B25-98B2-6C8BDE95F64E}|signin\\signin.csproj|solutionrelative:signin\\utility\\mobilenimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6DD85-445A-4B25-98B2-6C8BDE95F64E}|signin\\signin.csproj|c:\\users\\iray3\\source\\repos\\signin\\signin\\utility\\cardbookhaul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6DD85-445A-4B25-98B2-6C8BDE95F64E}|signin\\signin.csproj|solutionrelative:signin\\utility\\cardbookhaul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6DD85-445A-4B25-98B2-6C8BDE95F64E}|signin\\signin.csproj|c:\\users\\iray3\\source\\repos\\signin\\signin\\utility\\createhaul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6DD85-445A-4B25-98B2-6C8BDE95F64E}|signin\\signin.csproj|solutionrelative:signin\\utility\\createhaul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6DD85-445A-4B25-98B2-6C8BDE95F64E}|signin\\signin.csproj|c:\\users\\iray3\\source\\repos\\signin\\signin\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6DD85-445A-4B25-98B2-6C8BDE95F64E}|signin\\signin.csproj|solutionrelative:signin\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6DD85-445A-4B25-98B2-6C8BDE95F64E}|signin\\signin.csproj|c:\\users\\iray3\\source\\repos\\signin\\signin\\stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6DD85-445A-4B25-98B2-6C8BDE95F64E}|signin\\signin.csproj|solutionrelative:signin\\stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6DD85-445A-4B25-98B2-6C8BDE95F64E}|signin\\signin.csproj|c:\\users\\iray3\\source\\repos\\signin\\signin\\features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BDD6DD85-445A-4B25-98B2-6C8BDE95F64E}|signin\\signin.csproj|solutionrelative:signin\\features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cardbookhaul.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\signin\\signin\\utility\\cardbookhaul.cs",
+              "RelativeDocumentMoniker": "signin\\utility\\cardbookhaul.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\signin\\signin\\utility\\cardbookhaul.cs",
+              "RelativeToolTip": "signin\\utility\\cardbookhaul.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:26:53.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "createhaul.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\signin\\signin\\utility\\createhaul.cs",
+              "RelativeDocumentMoniker": "signin\\utility\\createhaul.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\signin\\signin\\utility\\createhaul.cs",
+              "RelativeToolTip": "signin\\utility\\createhaul.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:26:23.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mobilenimber.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\signin\\signin\\utility\\mobilenimber.cs",
+              "RelativeDocumentMoniker": "signin\\utility\\mobilenimber.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\signin\\signin\\utility\\mobilenimber.cs",
+              "RelativeToolTip": "signin\\utility\\mobilenimber.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:46:38.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Feature1.feature",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\signin\\signin\\Features\\Feature1.feature",
+              "RelativeDocumentMoniker": "signin\\Features\\Feature1.feature",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\signin\\signin\\Features\\Feature1.feature",
+              "RelativeToolTip": "signin\\Features\\Feature1.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-25T12:30:27.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "steps.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\signin\\signin\\StepDefinitions\\steps.cs",
+              "RelativeDocumentMoniker": "signin\\StepDefinitions\\steps.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\signin\\signin\\StepDefinitions\\steps.cs",
+              "RelativeToolTip": "signin\\StepDefinitions\\steps.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:27:10.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hooks1.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\signin\\signin\\Hooks\\Hooks1.cs",
+              "RelativeDocumentMoniker": "signin\\Hooks\\Hooks1.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\signin\\signin\\Hooks\\Hooks1.cs",
+              "RelativeToolTip": "signin\\Hooks\\Hooks1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:14:49.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

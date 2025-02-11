@@ -1,0 +1,5 @@
+C:\Users\iray3\source\repos\continue\continue\obj\Debug\net6.0\i-Haulautomation.csproj.AssemblyReference.cache
+C:\Users\iray3\source\repos\continue\continue\obj\Debug\net6.0\i-Haulautomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iray3\source\repos\continue\continue\obj\Debug\net6.0\i-Haulautomation.AssemblyInfoInputs.cache
+C:\Users\iray3\source\repos\continue\continue\obj\Debug\net6.0\i-Haulautomation.AssemblyInfo.cs
+C:\Users\iray3\source\repos\continue\continue\obj\Debug\net6.0\i-Haulautomation.csproj.CoreCompileInputs.cache

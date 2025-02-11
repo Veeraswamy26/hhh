@@ -1,0 +1,5 @@
+{
+  "about": "//android.widget.TextView[@resource-id=\"com.ReSound.TestMultiplePlugins:id/ReSound.App.Legolas.Plugins.StandardMenuWithPlugins.Pages.MenuPage.MenuItem.AboutPlugin\"]",
+  "TNC": "//android.widget.TextView[@resource-id=\"com.ReSound.TestMultiplePlugins:id/ReSound.App.Legolas.Plugins.StandardMenuWithPlugins.Pages.MenuPage.MenuItem.AcceptTermsAndConditionsPlugin\"]",
+  "soundplugin": "//android.widget.TextView[@resource-id=\"com.ReSound.TestMultiplePlugins:id/ReSound.App.Legolas.Plugins.StandardMenuWithPlugins.Pages.MenuPage.MenuItem.AdjustSoundPlugin\"]"
+}

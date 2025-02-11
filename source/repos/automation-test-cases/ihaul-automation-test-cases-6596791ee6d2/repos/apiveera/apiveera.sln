@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiveera", "apiveera\apiveera.csproj", "{4FB2E9B4-3B62-4D8A-A35B-9CECA78A6FBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apitest", "apitest\apitest.csproj", "{5D86AEA5-80BD-43AA-8C67-1E1435D0499B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB2E9B4-3B62-4D8A-A35B-9CECA78A6FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB2E9B4-3B62-4D8A-A35B-9CECA78A6FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB2E9B4-3B62-4D8A-A35B-9CECA78A6FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB2E9B4-3B62-4D8A-A35B-9CECA78A6FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D86AEA5-80BD-43AA-8C67-1E1435D0499B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D86AEA5-80BD-43AA-8C67-1E1435D0499B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D86AEA5-80BD-43AA-8C67-1E1435D0499B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D86AEA5-80BD-43AA-8C67-1E1435D0499B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {000E9C7A-C52F-4558-86A5-42150AB93197}
+	EndGlobalSection
+EndGlobal

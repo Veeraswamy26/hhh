@@ -1,0 +1,11 @@
+C:\Users\iray3\source\repos\apiveera\apiveera\bin\Debug\apiveera.dll
+C:\Users\iray3\source\repos\apiveera\apiveera\bin\Debug\apiveera.pdb
+C:\Users\iray3\source\repos\apiveera\apiveera\obj\Debug\apiveera.csproj.AssemblyReference.cache
+C:\Users\iray3\source\repos\apiveera\apiveera\obj\Debug\apiveera.csproj.CoreCompileInputs.cache
+C:\Users\iray3\source\repos\apiveera\apiveera\obj\Debug\apiveera.dll
+C:\Users\iray3\source\repos\apiveera\apiveera\obj\Debug\apiveera.pdb
+C:\Users\iray3\source\repos\apiveera\apiveera\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iray3\source\repos\apiveera\apiveera\bin\Debug\RestSharp.dll
+C:\Users\iray3\source\repos\apiveera\apiveera\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iray3\source\repos\apiveera\apiveera\bin\Debug\RestSharp.xml
+C:\Users\iray3\source\repos\apiveera\apiveera\obj\Debug\apiveera.csproj.Up2Date

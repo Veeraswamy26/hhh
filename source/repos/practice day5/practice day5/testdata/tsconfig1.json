@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ],
+  "name": "veera",
+  "age": "15",
+  "education": "B.tech",
+  "branch": "ece",
+  "village": "lolla",
+  "workexp": "1",
+  "company": "i-ray",
+  "place": "madhapur"
+}

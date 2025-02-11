@@ -1,0 +1,5 @@
+C:\Users\iray3\source\repos\unifiesi-haul\unifiesi-haul\obj\Debug\net6.0\unifiesi-haul.csproj.AssemblyReference.cache
+C:\Users\iray3\source\repos\unifiesi-haul\unifiesi-haul\obj\Debug\net6.0\unifiesi-haul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iray3\source\repos\unifiesi-haul\unifiesi-haul\obj\Debug\net6.0\unifiesi-haul.AssemblyInfoInputs.cache
+C:\Users\iray3\source\repos\unifiesi-haul\unifiesi-haul\obj\Debug\net6.0\unifiesi-haul.AssemblyInfo.cs
+C:\Users\iray3\source\repos\unifiesi-haul\unifiesi-haul\obj\Debug\net6.0\unifiesi-haul.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\iray\source\repos\algooo\algooo\obj\Debug\net6.0\algooo.csproj.AssemblyReference.cache
+C:\Users\iray\source\repos\algooo\algooo\obj\Debug\net6.0\algooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iray\source\repos\algooo\algooo\obj\Debug\net6.0\algooo.AssemblyInfoInputs.cache
+C:\Users\iray\source\repos\algooo\algooo\obj\Debug\net6.0\algooo.AssemblyInfo.cs
+C:\Users\iray\source\repos\algooo\algooo\obj\Debug\net6.0\algooo.csproj.CoreCompileInputs.cache

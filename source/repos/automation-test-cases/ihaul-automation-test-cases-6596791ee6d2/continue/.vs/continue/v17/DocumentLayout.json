@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iray3\\source\\repos\\continue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|c:\\users\\iray3\\source\\repos\\continue\\continue\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|solutionrelative:continue\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|c:\\users\\iray3\\source\\repos\\continue\\continue\\features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|solutionrelative:continue\\features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|c:\\users\\iray3\\source\\repos\\continue\\continue\\stepdefinitions\\i-haulsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|solutionrelative:continue\\stepdefinitions\\i-haulsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|c:\\users\\iray3\\source\\repos\\continue\\continue\\pom\\signup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|solutionrelative:continue\\pom\\signup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|c:\\users\\iray3\\source\\repos\\continue\\continue\\pom\\signuppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|solutionrelative:continue\\pom\\signuppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|c:\\users\\iray3\\source\\repos\\continue\\continue\\pom\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|solutionrelative:continue\\pom\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|c:\\users\\iray3\\source\\repos\\continue\\continue\\pom\\bookinghaul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|solutionrelative:continue\\pom\\bookinghaul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|c:\\users\\iray3\\source\\repos\\continue\\continue\\pom\\continueasguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94A058B-32D8-4B0C-8C0E-50D080B06473}|continue\\iHaulautomation.csproj|solutionrelative:continue\\pom\\continueasguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Feature1.feature",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\Features\\Feature1.feature",
+              "RelativeDocumentMoniker": "continue\\Features\\Feature1.feature",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\Features\\Feature1.feature",
+              "RelativeToolTip": "continue\\Features\\Feature1.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-31T10:52:46.706Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hooks1.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\Hooks\\Hooks1.cs",
+              "RelativeDocumentMoniker": "continue\\Hooks\\Hooks1.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\Hooks\\Hooks1.cs",
+              "RelativeToolTip": "continue\\Hooks\\Hooks1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA6wCIAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:23:47.274Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "signup1.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\POM\\signup1.cs",
+              "RelativeDocumentMoniker": "continue\\POM\\signup1.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\POM\\signup1.cs",
+              "RelativeToolTip": "continue\\POM\\signup1.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwDkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:47:30.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "signuppage.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\POM\\signuppage.cs",
+              "RelativeDocumentMoniker": "continue\\POM\\signuppage.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\POM\\signuppage.cs",
+              "RelativeToolTip": "continue\\POM\\signuppage.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:25:54.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "loginpage.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\POM\\loginpage.cs",
+              "RelativeDocumentMoniker": "continue\\POM\\loginpage.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\POM\\loginpage.cs",
+              "RelativeToolTip": "continue\\POM\\loginpage.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:33:42.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bookinghaul.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\POM\\bookinghaul.cs",
+              "RelativeDocumentMoniker": "continue\\POM\\bookinghaul.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\POM\\bookinghaul.cs",
+              "RelativeToolTip": "continue\\POM\\bookinghaul.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:03:48.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "i-haulsteps.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\StepDefinitions\\i-haulsteps.cs",
+              "RelativeDocumentMoniker": "continue\\StepDefinitions\\i-haulsteps.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\StepDefinitions\\i-haulsteps.cs",
+              "RelativeToolTip": "continue\\StepDefinitions\\i-haulsteps.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:21:01.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "continueasguest.cs",
+              "DocumentMoniker": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\POM\\continueasguest.cs",
+              "RelativeDocumentMoniker": "continue\\POM\\continueasguest.cs",
+              "ToolTip": "C:\\Users\\iray3\\source\\repos\\continue\\continue\\POM\\continueasguest.cs",
+              "RelativeToolTip": "continue\\POM\\continueasguest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBEAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:33:36.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
